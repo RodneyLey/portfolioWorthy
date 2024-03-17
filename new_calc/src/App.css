@@ -1,0 +1,12 @@
+.calculatorContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div.myHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

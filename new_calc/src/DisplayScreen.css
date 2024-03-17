@@ -1,0 +1,7 @@
+.myLCD{
+    height: 100px;
+    width: 500px;
+    background-color: lightgrey;
+    color: black;
+    border: 1px solid black;
+}
